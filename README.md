@@ -42,9 +42,7 @@
 4. Utilize Visual Aids: Incorporate visuals like infographics or charts to illustrate complex ideas.
 5.  Follow Up with Feedback: After your presentation, solicit feedback through surveys or informal discussions.
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
-1. Use Plain Language:
- - Avoid Jargon: Replace technical terms with simple, everyday language.
- - Short Sentences: Keep sentences concise to enhance clarity and comprehension.
+1. Use Plain Language: Keep sentences concise to enhance clarity and comprehension.
 2. Structure Content Clearly: Use clear headings to organize content, making it easier to navigate.
 3. Use Visual Aids: Incorporate visuals that simplify complex concepts and enhance understanding.
 4. Create Step-by-Step Instructions: Break tasks down into step-by-step guides with clear, actionable instructions.
